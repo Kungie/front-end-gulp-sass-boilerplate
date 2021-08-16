@@ -1,4 +1,4 @@
-@import "util";
+@use "../util/" as *;
 
 body {
   min-height: 100vh;
